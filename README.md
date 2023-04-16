@@ -66,13 +66,7 @@ Pout is intended for legal and ethical use only. The developers and contributors
 
 ## Screenshots
 
-<details>
-<summary><strong>Main Window</strong></summary>
-<br>
-
 <img src="https://user-images.githubusercontent.com/75194878/232324409-bfb2ce3d-57a1-4c80-a5be-856be556c33f.png" alt="Overview" width=90% height=90%>
-
-</details>
 
 <details>
 <summary><strong>Process Manager</strong></summary>
