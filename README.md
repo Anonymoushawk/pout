@@ -70,7 +70,7 @@ Pout is intended for legal and ethical use only. The developers and contributors
 <summary><strong>Main Window</strong></summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/75194878/232324409-bfb2ce3d-57a1-4c80-a5be-856be556c33f.png" alt="Overview" width=75% height=75%>
+<img src="https://user-images.githubusercontent.com/75194878/232324409-bfb2ce3d-57a1-4c80-a5be-856be556c33f.png" alt="Overview" width=80% height=80%>
 
 </details>
 
@@ -78,7 +78,7 @@ Pout is intended for legal and ethical use only. The developers and contributors
 <summary><strong>Process Manager</strong></summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/75194878/232324359-e3911080-f6e3-4382-bbe1-5c74f697818a.png" alt="Process Manager" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/75194878/232324359-e3911080-f6e3-4382-bbe1-5c74f697818a.png" alt="Process Manager" width=60% height=60%>
 
 </details>
 
@@ -86,7 +86,7 @@ Pout is intended for legal and ethical use only. The developers and contributors
 <summary><strong>Remote Shell</strong></summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/75194878/232324438-cdf8c08a-fcf1-4fef-be5e-57c97c86fbaf.png" alt="Remote Shell" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/75194878/232324438-cdf8c08a-fcf1-4fef-be5e-57c97c86fbaf.png" alt="Remote Shell" width=70% height=70%>
 
 </details>
 
