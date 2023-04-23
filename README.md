@@ -73,7 +73,7 @@ Pout is intended for legal and ethical use only. The developers and contributors
 <summary><strong>Process Manager</strong></summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/75194878/233862110-4176075d-aeab-42ae-bb21-982abe9a9c38.png" alt="Process Manager" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/75194878/233862110-4176075d-aeab-42ae-bb21-982abe9a9c38.png" alt="Process Manager" width=55% height=55%>
 
 </details>
 
@@ -89,9 +89,7 @@ Pout is intended for legal and ethical use only. The developers and contributors
 <summary><strong>Message Box Sender</strong></summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/75194878/233861864-f5aed2b7-98ca-43e1-a229-e08e124c0852.png" alt="Message Box Sender" width=55% height=55%>
-
-<img src="https://user-images.githubusercontent.com/75194878/233862646-5b832f2f-f56d-4a14-bdf3-4fe796fa7a8d.png" alt="Message Box" width=55% height=55%>
+<img src="https://user-images.githubusercontent.com/75194878/233861864-f5aed2b7-98ca-43e1-a229-e08e124c0852.png" alt="Message Box Sender" width=50% height=50%><img src="https://user-images.githubusercontent.com/75194878/233862646-5b832f2f-f56d-4a14-bdf3-4fe796fa7a8d.png" alt="Message Box" width=50% height=50%>
 
 </details>
 
@@ -99,7 +97,7 @@ Pout is intended for legal and ethical use only. The developers and contributors
 <summary><strong>URL Opener</strong></summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/75194878/232324477-257bc616-7c66-408d-91a3-56fb156d8dd6.png" alt="URL Opener" width=45% height=45%>
+<img src="https://user-images.githubusercontent.com/75194878/232324477-257bc616-7c66-408d-91a3-56fb156d8dd6.png" alt="URL Opener" width=40% height=40%>
 
 </details>
 
