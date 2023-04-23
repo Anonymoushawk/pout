@@ -56,9 +56,10 @@ Pout is intended for legal and ethical use only. The developers and contributors
 | `Process Manager`  |   🟢    | Automatic Updating, Kill Process |
 | `View Information` |   🟠    | General, Installed Programs, Network, TCP ... |
 | `Recovery Options` |   🟠    | Browser Credentials, Discord Tokens, Wallets, ... |
-| `Fun Options`      |   🟡    | Open URL, Open Message Box, ... |
+| `Fun Options`      |   🟡    | Lock/Unlock Mouse & Keyboard, Open URL, Open Message Box, ... |
 | `Power Options`    |   🟢    | Shutdown, Restart, No Warning, Instant, ... |
-| `Server Analytics` |   🟡    | Connection Graphs & Charts |
+| `Client Options`   |   🟢    | Restart Connection, Remove Connection, ... |
+| `Server Manager`   |   🟡    | Server Socket Logs, Connection Analytics, ... |
 
 ## Showcase
 
@@ -66,13 +67,13 @@ Pout is intended for legal and ethical use only. The developers and contributors
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/75194878/232324409-bfb2ce3d-57a1-4c80-a5be-856be556c33f.png" alt="Overview" width=90% height=90%>
+<img src="https://user-images.githubusercontent.com/75194878/233862542-f1b08e04-0606-430f-8836-7cd763551938.png" alt="Overview" width=100% height=100%>
 
 <details>
 <summary><strong>Process Manager</strong></summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/75194878/232324359-e3911080-f6e3-4382-bbe1-5c74f697818a.png" alt="Process Manager" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/75194878/233862110-4176075d-aeab-42ae-bb21-982abe9a9c38.png" alt="Process Manager" width=50% height=50%>
 
 </details>
 
@@ -80,16 +81,23 @@ Pout is intended for legal and ethical use only. The developers and contributors
 <summary><strong>Remote Shell</strong></summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/75194878/232324438-cdf8c08a-fcf1-4fef-be5e-57c97c86fbaf.png" alt="Remote Shell" width=75% height=75%>
+<img src="https://user-images.githubusercontent.com/75194878/232324438-cdf8c08a-fcf1-4fef-be5e-57c97c86fbaf.png" alt="Remote Shell" width=70% height=70%>
 
 </details>
 
 <details>
-<summary><strong>Fun Options</strong></summary>
+<summary><strong>Message Box Sender</strong></summary>
 <br>
 
-![image](https://user-images.githubusercontent.com/75194878/232324479-ea665922-4e55-4588-b17f-7299de777b94.png)
-![image](https://user-images.githubusercontent.com/75194878/232324477-257bc616-7c66-408d-91a3-56fb156d8dd6.png)
+<img src="https://user-images.githubusercontent.com/75194878/233861864-f5aed2b7-98ca-43e1-a229-e08e124c0852.png" alt="Message Box Sender" width=50% height=50%><img src="https://user-images.githubusercontent.com/75194878/233862646-5b832f2f-f56d-4a14-bdf3-4fe796fa7a8d.png" alt="Message Box" width=45% height=50%>
+
+</details>
+
+<details>
+<summary><strong>URL Opener</strong></summary>
+<br>
+
+<img src="https://user-images.githubusercontent.com/75194878/232324477-257bc616-7c66-408d-91a3-56fb156d8dd6.png" alt="URL Opener" width=35% height=35%>
 
 </details>
 
