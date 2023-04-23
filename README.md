@@ -50,15 +50,18 @@ Pout is intended for legal and ethical use only. The developers and contributors
 - [License](#license)
 
 ## Features
+- 🟢 Fully Operational
+- 🟡 Partly Opertional
+- 🟠 In Development/Planned
 
 | Feature            | Status  | Notes         |
 |:-------------------|:-------:|:--------------|
 | `Remote Shell`     |   🟢    | Silent command execution. |
 | `File Manager`     |   🟠    | Upload, Download, Delete, Change Directory, ... |
-| `Process Manager`  |   🟢    | Automatic Updating, Kill Process |
+| `Process Manager`  |   🟢    | Automatic Updating, Kill Process, Copy Executable Path |
 | `View Information` |   🟠    | General, Installed Programs, Network, TCP ... |
 | `Recovery Options` |   🟠    | Browser Credentials, Discord Tokens, Wallets, ... |
-| `Fun Options`      |   🟡    | Lock/Unlock Mouse & Keyboard, Open URL, Open Message Box, ... |
+| `Fun Options`      |   🟢    | Lock/Unlock Mouse & Keyboard, Open URL, Open Message Box, ... |
 | `Power Options`    |   🟢    | Shutdown, Restart, No Warning, Instant, ... |
 | `Client Options`   |   🟢    | Restart Connection, Remove Connection, ... |
 | `Server Manager`   |   🟡    | Server Socket Logs, Connection Analytics, ... |
