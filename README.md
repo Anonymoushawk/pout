@@ -56,6 +56,7 @@ Pout is intended for legal and ethical use only. The developers and contributors
 
 | Feature            | Status  | Notes         |
 |:-------------------|:-------:|:--------------|
+| `File Executor`    |   🟡    | Upload and Run Multiple Files, In Memory/On Disk. |
 | `Remote Shell`     |   🟢    | Silent command execution. |
 | `File Manager`     |   🟠    | Upload, Download, Delete, Change Directory, ... |
 | `Process Manager`  |   🟢    | Automatic Updating, Kill Process, Copy Executable Path |
