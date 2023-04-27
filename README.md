@@ -56,10 +56,13 @@ Pout is intended for legal and ethical use only. The developers and contributors
 
 | Feature            | Status  | Notes         |
 |:-------------------|:-------:|:--------------|
+| `Persistence`      |   🟢    | Client has Startup Registry & SCHTASKS Persistence.  |
+| `Client Builder`   |   🟢    | Basic Configuration, Compression, Persistence, ... |
+| `Plugin Creator`   |   🟠    | Create C/C++ DLL's and Execute them on the Client. |
 | `File Executor`    |   🟡    | Upload and Run Multiple Files, In Memory/On Disk. |
 | `Remote Shell`     |   🟢    | Silent command execution. |
 | `File Manager`     |   🟠    | Upload, Download, Delete, Change Directory, ... |
-| `Process Manager`  |   🟢    | Automatic Updating, Kill Process, Copy Executable Path |
+| `Process Manager`  |   🟢    | Custom Refresh Time, Kill Process, Copy ID |
 | `View Information` |   🟠    | General, Installed Programs, Network, TCP ... |
 | `Recovery Options` |   🟠    | Browser Credentials, Discord Tokens, Wallets, ... |
 | `Fun Options`      |   🟢    | Lock/Unlock Mouse & Keyboard, Open URL, Open Message Box, ... |
@@ -72,14 +75,22 @@ Pout is intended for legal and ethical use only. The developers and contributors
 **The showcase video hasn't been created yet... It will be here soon!*
 
 ## Screenshots
-
 <img src="https://user-images.githubusercontent.com/75194878/233862542-f1b08e04-0606-430f-8836-7cd763551938.png" alt="Overview" width=100% height=100%>
 
+
 <details>
-<summary><strong>Process Manager</strong></summary>
+<summary><strong>Windows Notifications</strong></summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/75194878/233862110-4176075d-aeab-42ae-bb21-982abe9a9c38.png" alt="Process Manager" width=55% height=55%>
+<img src="https://user-images.githubusercontent.com/75194878/234965722-9c96639c-62d4-4a94-9132-7144e085ecc7.png" alt="Server Started" width=50% height=50%><img src="https://user-images.githubusercontent.com/75194878/234965154-b850b6a1-ebeb-4aa6-8ea1-4b1e33f65738.png" alt="Client Connected" width=50% height=50%>
+
+</details>
+
+<details>
+<summary><strong>File Executor</strong></summary>
+<br>
+
+<img src="https://user-images.githubusercontent.com/75194878/234967310-4eafa298-2f67-45e2-b375-c3d7ba2a9c68.png" alt="File Executor" width=50% height=50%>
 
 </details>
 
@@ -92,10 +103,17 @@ Pout is intended for legal and ethical use only. The developers and contributors
 </details>
 
 <details>
-<summary><strong>Message Box Sender</strong></summary>
+<summary><strong>Process Manager</strong></summary>
 <br>
 
-<img src="https://user-images.githubusercontent.com/75194878/233861864-f5aed2b7-98ca-43e1-a229-e08e124c0852.png" alt="Message Box Sender" width=50% height=50%><img src="https://user-images.githubusercontent.com/75194878/233862646-5b832f2f-f56d-4a14-bdf3-4fe796fa7a8d.png" alt="Message Box" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/75194878/233862110-4176075d-aeab-42ae-bb21-982abe9a9c38.png" alt="Process Manager" width=55% height=55%>
+
+</details>
+
+<details>
+<summary><strong>Message Box Sender</strong></summary>
+<br>
+<img src="https://user-images.githubusercontent.com/75194878/234966853-83f31262-b70a-4bb0-ad99-6a454040fd3c.png" alt="Message Box Sender" width=50% height=50%><img src="https://user-images.githubusercontent.com/75194878/233862646-5b832f2f-f56d-4a14-bdf3-4fe796fa7a8d.png" alt="Message Box" width=50% height=50%>
 
 </details>
 
