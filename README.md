@@ -69,6 +69,7 @@ Pout is intended for legal and ethical use only. The developers and contributors
 | `Power Options`    |   🟢    | Shutdown, Restart, No Warning, Instant, ... |
 | `Client Options`   |   🟢    | Restart Connection, Remove Connection, ... |
 | `Server Manager`   |   🟡    | Server Socket Logs, Connection Analytics, ... |
+| `Notifications`    |   🟡    | Windows Notification on Server Start & Client Connect. |
 
 ## Showcase
 
