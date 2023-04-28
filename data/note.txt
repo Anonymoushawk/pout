@@ -1,0 +1,1 @@
+Do not delete this directory! this is where the files for each connection will be stored.

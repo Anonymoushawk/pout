@@ -1,0 +1,8 @@
+This program uses UPX to compress the size of the build file.
+
+If you don't trust the binary source of UPX (upx.exe), you can download it directly from the UPX GitHub page:
+https://github.com/upx/upx/releases/latest
+
+
+The UPX binary is required if the 'compress' option is toggled in the client builder.
+So just make sure that there is a valid UPX executable in this folder, or it will not be able to compress.
