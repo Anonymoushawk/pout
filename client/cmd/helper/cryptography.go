@@ -1,7 +1,5 @@
 package helper
 
-// This file is currently unused, traffic encryption will be implemented in later updates.
-
 import (
 	"crypto/aes"
 	"crypto/cipher"
