@@ -18,7 +18,7 @@ require (
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8 // indirect
 	github.com/sahilm/fuzzy v0.1.0 // indirect
-	golang.org/x/image v0.0.0-20220302094943-723b81ca9867 // indirect
-	golang.org/x/sys v0.0.0-20220315194320-039c03cc5b86 // indirect
+	golang.org/x/image v0.5.0 // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
 	gopkg.in/eapache/queue.v1 v1.1.0 // indirect
 )
