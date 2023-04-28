@@ -65,7 +65,7 @@ Pout is intended for legal and ethical use only. The developers and contributors
 | `File Executor`     |   🟡    | Upload and Run Multiple Files, In Memory/On Disk. |
 | `Remote Shell`      |   🟢    | Silent command execution. |
 | `File Manager`      |   🟠    | Upload, Download, Delete, Change Directory, ... |
-| `Process Manager`   |   🟢    | Custom Refresh Time, Kill Process, Copy ID |
+| `Process Manager`   |   🟢    | Custom Refresh Time, Kill Process, Copy ID. |
 | `View Information`  |   🟠    | General, Installed Programs, Network, TCP ... |
 | `Recovery Options`  |   🟠    | Browser Credentials, Discord Tokens, Wallets, ... |
 | `Fun Options`       |   🟢    | Lock/Unlock Mouse & Keyboard, Open URL, Open Message Box, ... |
