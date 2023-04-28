@@ -47,6 +47,8 @@ Pout is intended for legal and ethical use only. The developers and contributors
 - [Features](#features)
 - [Showcase](#showcase)
 - [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
 - [License](#license)
 
 ## Features
@@ -126,6 +128,27 @@ Pout is intended for legal and ethical use only. The developers and contributors
 <img src="https://user-images.githubusercontent.com/75194878/232324477-257bc616-7c66-408d-91a3-56fb156d8dd6.png" alt="URL Opener" width=40% height=40%>
 
 </details>
+
+
+## Installation
+
+To install Pout, firstly make sure you have [GoLang](https://go.dev) and [GCC](https://sourceforge.net/projects/mingw-w64/) installed. Now you can follow these steps:
+
+1. Clone the repository using `git clone https://github.com/codeuk/pout.git`
+2. Open a terminal and navigate to the directory you installed Pout in.
+3. Download all pre-requisites by running `go get ./...`
+
+If you encounter any errors during this process, first look it up and see if it's an easy fix, and if you still can't manage to fix it, create an <a href="https://github.com/codeuk/pout/issues">issue</a>
+
+## Usage
+
+To use the Pout C2 server, follow these steps:
+
+1. In the Pout directory, run `go run main.go` to open the program.
+2. When the UI opens, you can start the server by pressing `Server` > `Start`.
+3. You can open the Client Builder by pressing `Client` > `Open Builder`. When configured, press `Build Client` and it will build to `client/build/file.exe`
+
+The build is approx. 2MB (will be decreased over time) and so far FUD, though I'd still recommend using a dropper when putting it to operational use as it is open sourced.
 
 ## License
 
