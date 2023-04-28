@@ -1,4 +1,4 @@
-<h1>SOURCE CODE RELEASE AT 10 STARS!</h1>
+<h1>SOURCE CODE RELEASED!</h1>
 
 <p align="center">
   <a href="#">
