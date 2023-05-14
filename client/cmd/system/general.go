@@ -30,8 +30,6 @@ type SystemTable struct {
 
 // `MetaData` represents a database of the local system information.
 type MetaData struct {
-	// The JSON values of this struct will have the match the ones server side,
-	// as they are sent and read directory into the client's MetaData struct there.
 	IP            string      `json:"ip_address"`
 	Name          string      `json:"machine_name"`
 	Arch          string      `json:"architecture"`

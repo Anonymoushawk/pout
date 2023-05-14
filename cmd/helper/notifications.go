@@ -9,7 +9,7 @@ import (
 // `ServerStartedNotification` pushes a Windows toast notification for the server starting.
 func ServerStartedNotification(port string) error {
 	notification := toast.Notification{
-		AppID:   "Pout C2",
+		AppID:   APP_NAME,
 		Title:   "Server Started!",
 		Message: fmt.Sprintf("Pout is listening for connections! (port: %s)", port),
 	}
@@ -20,7 +20,7 @@ func ServerStartedNotification(port string) error {
 // `NewClientNotification` pushes a Windows toast notification for each new client.
 func NewClientNotification(rawAddr string) error {
 	notification := toast.Notification{
-		AppID:   "Pout C2",
+		AppID:   APP_NAME,
 		Title:   "New Connection!",
 		Message: fmt.Sprintf("A new client has connected to Pout: (%s)", rawAddr),
 	}
@@ -28,8 +28,8 @@ func NewClientNotification(rawAddr string) error {
 	return notification.Push()
 }
 
-// Windows toast notification variables.
+// Toast notification variables.
 const (
-	App = "Pout C2"
+	APP_NAME = "Pout C2"
 	// Icon = "icon.png"
 )

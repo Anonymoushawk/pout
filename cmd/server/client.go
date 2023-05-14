@@ -15,19 +15,19 @@ import (
 	so "github.com/iamacarpet/go-win64api/shared"
 )
 
+// `ProcessMonitor` represents the attributes required to display processes.
+type ProcessMonitor struct {
+	ProcessUpdateTime    int32     `json:"update_time"`
+	LastUpdatedProcesses time.Time `json:"last_updated"`
+	KillingProcess       bool      `json:"killing_process"`
+}
+
 // `Process` represents the attributes of a running process on the machine.
 type Process struct {
 	PID    string `json:"process_id"`
 	Name   string `json:"executable_name"`
 	Type   string `json:"session_type"`
 	Memory string `json:"mem_usage"`
-}
-
-// `ProcessMonitor` represents the attributes required to display processes.
-type ProcessMonitor struct {
-	ProcessUpdateTime    int32     `json:"update_time"`
-	LastUpdatedProcesses time.Time `json:"last_updated"`
-	KillingProcess       bool      `json:"killing_process"`
 }
 
 // `RegistryTable` represents a database of information gathered from the clients Windows registry.

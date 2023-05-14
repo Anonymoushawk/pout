@@ -119,5 +119,3 @@ func GetRegistryInformation() RegistryTable {
 
 // Default value to use in the RegistryTable when the queried value isn't valid.
 const DEFAULT_REG_VAL = "Unknown"
-
-// Byte forms of the

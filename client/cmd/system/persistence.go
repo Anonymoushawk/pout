@@ -7,12 +7,6 @@ import (
 	"path/filepath"
 )
 
-// Persistence monitoring variables.
-var (
-	StartupPersistenceCreated   bool
-	SchedulerPersistenceCreated bool
-)
-
 // `DuplicateFileToAppData` duplicates the passed filePath to a new directory
 // in the AppData directory with the name specified by the passed directoryName.
 func DuplicateFileToAppData(filePath, directoryName, fileName string) (string, error) {
@@ -69,7 +63,6 @@ func CreateTaskSchedulerPersistence(fileName, directoryName string) error {
 		}
 	}
 
-	SchedulerPersistenceCreated = true
 	return nil
 }
 
@@ -92,6 +85,5 @@ func CreateStartupPersistence(fileName, directoryName string) error {
 		}
 	}
 
-	StartupPersistenceCreated = true
 	return nil
 }
