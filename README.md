@@ -37,7 +37,6 @@ Pout is an interactive C2 and Remote Administration Tool written in <a href="htt
 </div>
 
 ## Disclaimer
-
 Pout is intended for legal and ethical use only. The developers and contributors of Pout are not responsible for any illegal or unethical activities performed using this tool. Users of Pout are solely responsible for their actions and are advised to use the tool for legitimate security testing purposes only. Reselling this program as a closed-source binary could have legal consequences, please do not steal the source.
 
 ## Table of contents
@@ -73,8 +72,8 @@ Pout is intended for legal and ethical use only. The developers and contributors
 | `Notifications`     |   🟡    | Windows Notification on Server Start & Client Connect. |
 
 ## Showcase
-
-**The showcase video hasn't been created yet... It will be here soon!*
+> **Note**
+> The showcase video hasn't been created yet... It will be here soon!
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/75194878/233862542-f1b08e04-0606-430f-8836-7cd763551938.png" alt="Overview" width=100% height=100%>
